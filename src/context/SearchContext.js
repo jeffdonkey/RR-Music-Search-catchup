@@ -1,4 +1,4 @@
-import {createContex} from 'react'
+import {createContext} from 'react'
 
 export const SearchContext = createContext ({
     term: '',
